@@ -1,0 +1,39 @@
+D:\.NetFramework_works\5\5\5\bin\Debug\5.exe.config
+D:\.NetFramework_works\5\5\5\bin\Debug\5.exe
+D:\.NetFramework_works\5\5\5\bin\Debug\5.pdb
+D:\.NetFramework_works\5\5\5\obj\Debug\5.csproj.AssemblyReference.cache
+D:\.NetFramework_works\5\5\5\obj\Debug\_5.Form1.resources
+D:\.NetFramework_works\5\5\5\obj\Debug\_5.Properties.Resources.resources
+D:\.NetFramework_works\5\5\5\obj\Debug\5.csproj.GenerateResource.cache
+D:\.NetFramework_works\5\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+D:\.NetFramework_works\5\5\5\obj\Debug\5.exe
+D:\.NetFramework_works\5\5\5\obj\Debug\5.pdb
+W:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\bin\Debug\5.exe.config
+W:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\5.exe
+W:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\5.pdb
+W:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\bin\Debug\5.exe
+W:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\bin\Debug\5.pdb
+W:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+W:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\_5.Form1.resources
+W:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\_5.Properties.Resources.resources
+W:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\5.csproj.GenerateResource.Cache
+Z:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\bin\Debug\5.exe.config
+Z:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\bin\Debug\5.exe
+Z:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\bin\Debug\5.pdb
+Z:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\5.csprojAssemblyReference.cache
+Z:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\_5.Form1.resources
+Z:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\_5.Properties.Resources.resources
+Z:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\5.csproj.GenerateResource.cache
+Z:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+Z:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\5.exe
+Z:\23303 (2022-2023)\чистый рамираз\c#\5\5\5\obj\Debug\5.pdb
+E:\.NetFramework_works\5\5\5\bin\Debug\5.exe.config
+E:\.NetFramework_works\5\5\5\bin\Debug\5.exe
+E:\.NetFramework_works\5\5\5\bin\Debug\5.pdb
+E:\.NetFramework_works\5\5\5\obj\Debug\5.csprojAssemblyReference.cache
+E:\.NetFramework_works\5\5\5\obj\Debug\_5.Form1.resources
+E:\.NetFramework_works\5\5\5\obj\Debug\_5.Properties.Resources.resources
+E:\.NetFramework_works\5\5\5\obj\Debug\5.csproj.GenerateResource.cache
+E:\.NetFramework_works\5\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+E:\.NetFramework_works\5\5\5\obj\Debug\5.exe
+E:\.NetFramework_works\5\5\5\obj\Debug\5.pdb

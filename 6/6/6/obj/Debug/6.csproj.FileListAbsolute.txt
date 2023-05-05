@@ -1,0 +1,39 @@
+G:\.NetFramework_works\6\6\6\bin\Debug\6.exe.config
+G:\.NetFramework_works\6\6\6\bin\Debug\6.exe
+G:\.NetFramework_works\6\6\6\bin\Debug\6.pdb
+G:\.NetFramework_works\6\6\6\obj\Debug\6.csproj.AssemblyReference.cache
+G:\.NetFramework_works\6\6\6\obj\Debug\_6.Form1.resources
+G:\.NetFramework_works\6\6\6\obj\Debug\_6.Properties.Resources.resources
+G:\.NetFramework_works\6\6\6\obj\Debug\6.csproj.GenerateResource.cache
+G:\.NetFramework_works\6\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+G:\.NetFramework_works\6\6\6\obj\Debug\6.exe
+G:\.NetFramework_works\6\6\6\obj\Debug\6.pdb
+E:\.NetFramework_works\6\6\6\bin\Debug\6.exe.config
+E:\.NetFramework_works\6\6\6\bin\Debug\6.exe
+E:\.NetFramework_works\6\6\6\bin\Debug\6.pdb
+E:\.NetFramework_works\6\6\6\obj\Debug\_6.Form1.resources
+E:\.NetFramework_works\6\6\6\obj\Debug\_6.Properties.Resources.resources
+E:\.NetFramework_works\6\6\6\obj\Debug\6.csproj.GenerateResource.cache
+E:\.NetFramework_works\6\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+E:\.NetFramework_works\6\6\6\obj\Debug\6.exe
+E:\.NetFramework_works\6\6\6\obj\Debug\6.pdb
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\6\6\6\bin\Debug\6.exe.config
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\6\6\6\bin\Debug\6.exe
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\6\6\6\bin\Debug\6.pdb
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\6\6\6\obj\Debug\6.csprojAssemblyReference.cache
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\6\6\6\obj\Debug\_6.Form1.resources
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\6\6\6\obj\Debug\_6.Properties.Resources.resources
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\6\6\6\obj\Debug\6.csproj.GenerateResource.cache
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\6\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\6\6\6\obj\Debug\6.exe
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\6\6\6\obj\Debug\6.pdb
+D:\.NetFramework_works\6\6\6\bin\Debug\6.exe.config
+D:\.NetFramework_works\6\6\6\bin\Debug\6.exe
+D:\.NetFramework_works\6\6\6\bin\Debug\6.pdb
+D:\.NetFramework_works\6\6\6\obj\Debug\6.csproj.AssemblyReference.cache
+D:\.NetFramework_works\6\6\6\obj\Debug\_6.Form1.resources
+D:\.NetFramework_works\6\6\6\obj\Debug\_6.Properties.Resources.resources
+D:\.NetFramework_works\6\6\6\obj\Debug\6.csproj.GenerateResource.cache
+D:\.NetFramework_works\6\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+D:\.NetFramework_works\6\6\6\obj\Debug\6.exe
+D:\.NetFramework_works\6\6\6\obj\Debug\6.pdb

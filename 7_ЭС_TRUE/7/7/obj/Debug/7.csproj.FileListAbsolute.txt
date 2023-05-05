@@ -1,0 +1,33 @@
+G:\.NetFramework_works\7_ЭС_TRUE\7\7\bin\Debug\7.exe.config
+G:\.NetFramework_works\7_ЭС_TRUE\7\7\bin\Debug\7.exe
+G:\.NetFramework_works\7_ЭС_TRUE\7\7\bin\Debug\7.pdb
+G:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.csproj.AssemblyReference.cache
+G:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\_7.Form1.resources
+G:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\_7.Properties.Resources.resources
+G:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.csproj.GenerateResource.cache
+G:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.csproj.CoreCompileInputs.cache
+G:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.exe
+G:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.pdb
+E:\.NetFramework_works\7_ЭС_TRUE\7\7\bin\Debug\7.exe.config
+E:\.NetFramework_works\7_ЭС_TRUE\7\7\bin\Debug\7.exe
+E:\.NetFramework_works\7_ЭС_TRUE\7\7\bin\Debug\7.pdb
+E:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.csprojAssemblyReference.cache
+E:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\_7.Form1.resources
+E:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\_7.Properties.Resources.resources
+E:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.csproj.GenerateResource.cache
+E:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.csproj.CoreCompileInputs.cache
+E:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.exe
+E:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.pdb
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\7_ЭС_TRUE\7\7\bin\Debug\7.exe.config
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\7_ЭС_TRUE\7\7\bin\Debug\7.exe
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\7_ЭС_TRUE\7\7\bin\Debug\7.pdb
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.csprojAssemblyReference.cache
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\_7.Form1.resources
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\_7.Properties.Resources.resources
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.csproj.GenerateResource.cache
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.csproj.CoreCompileInputs.cache
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.exe
+Z:\23303 (2022-2023)\чистый рамираз\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.pdb
+F:\.NetFramework_works\7_ЭС_TRUE\7\7\bin\Debug\7.exe.config
+F:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.exe
+F:\.NetFramework_works\7_ЭС_TRUE\7\7\obj\Debug\7.pdb
